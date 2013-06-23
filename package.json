@@ -1,0 +1,22 @@
+{
+  "name": "github-monitor",
+  "version": "0.0.0",
+  "description": "Monitor Github commit statuses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neoziro/github-monitor.git"
+  },
+  "keywords": [
+    "monitor",
+    "github",
+    "statuses"
+  ],
+  "author": "Greg Bergé <berge.greg@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "3c7e2e5e7b2dc726bb9d81a44644994241e216ce"
+}
