@@ -2,6 +2,8 @@
 
 Monitor GitHub repository statuses.
 
+<img src="https://f.cloud.github.com/assets/266302/1478873/982b8102-4674-11e3-8af0-c226eeabb468.png" width="570" alt="GitHub monitor example">
+
 ## Example
 
 ```sh
