@@ -1,6 +1,6 @@
 # github-monitor [![Build Status](https://travis-ci.org/neoziro/github-monitor.png?branch=master)](https://travis-ci.org/neoziro/github-monitor)
 
-Monitor Github commit statuses.
+Monitor GitHub repository statuses.
 
 ## Example
 

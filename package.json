@@ -1,7 +1,7 @@
 {
   "name": "github-monitor",
   "version": "0.0.1",
-  "description": "Monitor Github commit statuses.",
+  "description": "Monitor GitHub repository statuses.",
   "main": "index.js",
   "repository": {
     "type": "git",
