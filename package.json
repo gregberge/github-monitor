@@ -1,14 +1,14 @@
 {
   "name": "github-monitor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Monitor Github commit statuses.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/neoziro/github-monitor.git"
+  },
+  "scripts": {
+    "test": "mocha test/**/*"
   },
   "keywords": [
     "monitor",
@@ -17,6 +17,15 @@
   ],
   "author": "Greg Bergé <berge.greg@gmail.com>",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "gitHead": "3c7e2e5e7b2dc726bb9d81a44644994241e216ce"
+  "dependencies": {
+    "octonode": "~0.3.5",
+    "commander": "~2.0.0",
+    "express": "~3.4.4",
+    "lodash": "~2.2.1",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1"
+  }
 }
