@@ -9,6 +9,11 @@ Monitor GitHub repository statuses.
 ```sh
 github-monitor -t my-github-token -r neoziro/github-monitor
 ```
+## Install
+
+```sh
+npm install -g github-monitor
+```
 
 ## Usage
 
